@@ -1,11 +1,11 @@
 {
-  "name": "rake-yo-weapp",
+  "name": "rake-weapp-yo",
   "version": "1.0.0",
   "description": "Rake task for yo weapp.",
   "main": "index.rake",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/afeiship/rake-yo-weapp.git"
+    "url": "git+https://github.com/afeiship/rake-weapp-yo.git"
   },
   "keywords": [
     "rake",
@@ -14,7 +14,7 @@
   "author": "afei",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/afeiship/rake-yo-weapp/issues"
+    "url": "https://github.com/afeiship/rake-weapp-yo/issues"
   },
-  "homepage": "https://github.com/afeiship/rake-yo-weapp#readme"
+  "homepage": "https://github.com/afeiship/rake-weapp-yo#readme"
 }

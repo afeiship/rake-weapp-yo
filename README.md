@@ -1,4 +1,4 @@
-# rake-yo-weapp
+# rake-weapp-yo
 > Rake task for yo weapp.
 
 ## install:
@@ -9,7 +9,7 @@ cd generator-weapp
 npm link
 
 ## install yo task:
-npm i -S afeiship/rake-yo-weapp --registry=https://registry.npm.taobao.org
+npm i -S afeiship/rake-weapp-yo --registry=https://registry.npm.taobao.org
 ```
 
 ## usage:
